@@ -1,0 +1,5 @@
+Currently there are three main senses that humans use to percieve web content (for now, thought I look forward to the day we're sitting on the bus all tasting our phone screens) - sight, hearing and touch. Some of these can have different dimensions - for example, sight includes colour vision. All of these need to be taken account of my web developers, including the fact that one or more of these may be impaired or atypical for the user. 
+
+This is of course critical to web development, and while much of it seems obvious it is not something I had consciously thought through before. I think for future projects each of these need to be thought through systematically and as a matter of course.
+
+I was a little surprised that while the article talks about how users maybe have impairments affecting vision and hearing, it talks only about touch as an alternative to these. Touch/movement related impairments can also have a significant impact on ability to use the web, and the growth in touchscreen devices is creating new issues in this regard.
